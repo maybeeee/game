@@ -12,4 +12,4 @@
 - [x] 玩家胜利后，弹窗提醒
 - [x] 玩家按下“space”键后，游戏暂停，所有的enemy将停止运动，同时不能通过键盘控制player移动。再次按下“space”键后，游戏恢复运行。
 
-[截图](./screenshot.png)
+![截图](./screenshot.png)
